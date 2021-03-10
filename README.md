@@ -1,0 +1,1 @@
+This is lc's first git project!
